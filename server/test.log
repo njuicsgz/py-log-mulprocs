@@ -1,0 +1,5 @@
+[2016-04-13 11:28:04] DEBUG    test_log.py:13  Quick zephyrs blow, vexing daft Jim.
+[2016-04-13 11:28:04] INFO     test_log.py:14  How quickly daft jumping zebras vex.
+[2016-04-13 11:28:04] WARNING  test_log.py:15  Jail zesty vixen who grabbed pay from quack.
+[2016-04-13 11:28:04] ERROR    test_log.py:16  The five boxing wizards jump quickly.
+[2016-04-13 11:28:04] CRITICAL test_log.py:17  critical
